@@ -32,6 +32,7 @@
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
     border-radius: 8px;
     padding: 20px;
+    background-color: #f44336;
   }
   
   input {
@@ -41,7 +42,7 @@
     border: 2px solid transparent;
     height: 34px;
     padding: 5px;
-    background: #37474f;
+    background: #232e33;
     color: inherit;
     font-family: inherit;
   }
@@ -58,7 +59,7 @@
     border: 1px solid transparent;
     border-radius: 4px;
     padding: 6px 14px;
-    background-color: #1565c0;
+    background-color: #15b7c0;
     color: white;
     font-family: inherit;
     font-size: 14px;
@@ -140,7 +141,7 @@
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 1px;
-    border: 2px solid #37474f;
+    border: 2px solid #aaacad;
     width: 64px;
     height: 64px;
     border-radius: 50%;
